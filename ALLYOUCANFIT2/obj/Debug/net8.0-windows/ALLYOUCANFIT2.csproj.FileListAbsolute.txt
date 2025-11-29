@@ -1,0 +1,17 @@
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\bin\Debug\net8.0-windows\ALLYOUCANFIT2.exe
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\bin\Debug\net8.0-windows\ALLYOUCANFIT2.deps.json
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\bin\Debug\net8.0-windows\ALLYOUCANFIT2.runtimeconfig.json
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\bin\Debug\net8.0-windows\ALLYOUCANFIT2.dll
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\bin\Debug\net8.0-windows\ALLYOUCANFIT2.pdb
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.csproj.GenerateResource.cache
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.AssemblyInfo.cs
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.dll
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\refint\ALLYOUCANFIT2.dll
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.pdb
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.genruntimeconfig.cache
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ref\ALLYOUCANFIT2.dll
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.submitBtn.resources
+C:\Users\Asus TUF\source\repos\ALLYOUCANFIT2\obj\Debug\net8.0-windows\ALLYOUCANFIT2.Properties.Resources.resources
